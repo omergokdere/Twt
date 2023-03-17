@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TWT</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="take_new_photo">Take New Photo</string>
+    <string name="countdown_3">3</string>
+    <string name="countdown_2">2</string>
+    <string name="countdown_1">1</string>
+    <string name="logout">Logout</string>
+    <string name="set_message">Set Message</string>
+    <string name="message_dialog_title">Set the tweet message</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
